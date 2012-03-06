@@ -1,7 +1,7 @@
 var config = {
   tabData: {
     tab1: [
-      'Tab 1 Test Change',
+      'Tab 1 Test Change #2',
       'This app demonstrates how to use client-side packages to configure element positioning and present different UI themes.',
       'It also shows how to pull content from the cloud.',
       'Click through the other tabs for more information and tips.',
